@@ -1,8 +1,9 @@
 # graphtheory2018
 
 - Para executar os códigos, basta rodar o comando
+```bash
 $ python <codigoPython.py>
-
+```
 - Ou seja
     1. Para executar o código referente ao Projeto 1 (Cadeias de Markov), execute no terminal:
     ```bash
